@@ -35,6 +35,8 @@ public class Main {
   System.out.println(mesaj.toLowerCase());
   System.out.println(mesaj.toUpperCase());
   
+  System.out.println();
+  
 	}
 
 }
